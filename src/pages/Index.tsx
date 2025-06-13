@@ -1,5 +1,3 @@
-
-import { useState } from 'react';
 import Navigation from '@/components/Navigation';
 import Hero from '@/components/Hero';
 import MobiliarioSection from '@/components/MobiliarioSection';
